@@ -1,0 +1,22 @@
+{
+  "name": "bingo",
+  "version": "1.0.0",
+  "description": "\"# hello\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithcraze/hello.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithcraze/hello/issues"
+  },
+  "homepage": "https://github.com/codewithcraze/hello#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
